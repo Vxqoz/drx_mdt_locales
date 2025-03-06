@@ -290,9 +290,9 @@
     "HOUR": "Stunde",
     "MINUTE": "Minute",
     "SECOND": "Sekunden",
-    "S": "s",
+    "S": "n",
     "AGO": "her",
-    "LEFT": "verlassen",
+    "LEFT": "übrig.",
     "JUST_NOW": "Gerade eben",
     "EXPIRED": "Abgelaufen",
     "AND": "und"
